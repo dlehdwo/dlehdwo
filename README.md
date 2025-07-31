@@ -30,8 +30,7 @@
 | **2025.04**| **SQLD (SQL 개발자)** | [자격증 취득](https://github.com/user-attachments/files/21524718/SQLD.pdf) |
 | **2024.12**| **산학협력프로젝트 경진대회** | [**우수상**](https://github.com/user-attachments/assets/68a716c5-9291-4cd6-9fd5-8b09be08053b) |
 | **2024.11**| **GDG on Campus KNU 비전 챌린지톤** | [**최우수상**](https://github.com/user-attachments/files/21088650/default.pdf) |
-| **2016.7**| **제33회 한국정보올림피아드 경시부문 중등부** | [**은상**](https://github.com/user-attachments/files/21524680/default.pdf)
-) |
+| **2016.7**| **제33회 한국정보올림피아드 경시부문 중등부** | [**은상**](https://github.com/user-attachments/files/21524680/default.pdf) |
 
 <p><strong>GPA(Grade Point Average): 3.80/4.3 </strong></p>
 </div>
