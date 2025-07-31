@@ -1,5 +1,8 @@
-## Hi there! Im Dongjae. 👋
+<div align="center">
+    
+![header](https://capsule-render.vercel.app/api?type=soft&color=EDEEF0&height=120&section=header&text=👋%20Hi!%20there,%20I'm%20Dongjae%20&fontSize=40&animation=twinkling&fontColor=5F5F5F&fontAlignY=52)
 
+</div>
 <h2 align="center">🛠️ Tech Stacks</h2>
 <p align="center">
   <b>Main Tech</b><br>
