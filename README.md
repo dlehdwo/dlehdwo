@@ -24,17 +24,16 @@
 
 | 취득일      | 내용                               | 결과/자격           |
 | :--------: | :-------------------------------- | :-----------------: |
-| **2025.07**| **빅데이터분석기사** | [자격증 취득](https://github.com/user-attachments/files/21173191/default.pdf) |
-| **2025.06**| **대경권 프로그래밍 경진대회** | [**대상**](https://github.com/user-attachments/files/21088648/default.pdf) |
-| **2025.06**| **정보처리기사** | [자격증 취득](https://github.com/user-attachments/files/21031768/default.pdf) |
-| **2025.06**| **SQLD (SQL 개발자)** | [자격증 취득](https://github.com/user-attachments/files/21031737/sqld.pdf) |
-| **2025.06**| **ADsP (데이터 분석 준전문가)** | [자격증 취득](https://github.com/user-attachments/files/21031758/adsp.pdf) |
-| **2024.12**| **산학협력프로젝트 경진대회** | [**우수상**](https://github.com/user-attachments/files/21088651/default.pdf) |
+| **2025.07**| **한국디지털콘텐츠학회 하계종합학술대회** | [**금상**](https://github.com/user-attachments/assets/344f73cb-c4de-4f18-9e40-1a9e1495878a) |
+| **2025.06**| **정보처리기사** | [자격증 취득](https://github.com/user-attachments/files/21524737/default.pdf) |
+| **2025.05**| **PCCP lv.5** | [자격증 취득](https://github.com/user-attachments/files/21524727/pccp.lv5.pdf) |
+| **2025.04**| **SQLD (SQL 개발자)** | [자격증 취득](https://github.com/user-attachments/files/21524718/SQLD.pdf) |
+| **2024.12**| **산학협력프로젝트 경진대회** | [**우수상**](https://github.com/user-attachments/assets/68a716c5-9291-4cd6-9fd5-8b09be08053b) |
 | **2024.11**| **GDG on Campus KNU 비전 챌린지톤** | [**최우수상**](https://github.com/user-attachments/files/21088650/default.pdf) |
-| **2024.09**| **2024 대구를 빛내는 해커톤** | [**대상**](https://github.com/user-attachments/files/21088649/default.pdf) |
+| **2016.7**| **제33회 한국정보올림피아드 경시부문 중등부** | [**은상**](https://github.com/user-attachments/files/21524680/default.pdf)
+) |
 
-<br/>
-<p><strong>GPA(Grade Point Average): 3.72/4.3 </strong></p>
+<p><strong>GPA(Grade Point Average): 3.80/4.3 </strong></p>
 </div>
 
 ---
