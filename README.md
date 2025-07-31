@@ -1,6 +1,4 @@
 ## 안녕하세요! 개발자 이동재입니다. 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fscv1702%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
-Hi! I'm a student developer interested in backend development.
 
 ## 🔭 I’m currently working on
 - Vice President of [Kyungpook National University Computer Emergency Response Team](https://github.com/KERT-core) (Sept 2020 ~ Mar 2020)
