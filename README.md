@@ -1,24 +1,17 @@
-## 안녕하세요! 개발자 이동재입니다. 👋
-
-## 🔭 I’m currently working on
-- Vice President of [Kyungpook National University Computer Emergency Response Team](https://github.com/KERT-core) (Sept 2020 ~ Mar 2020)
-- President of [Kyungpook National University Computer Emergency Response Team](https://github.com/KERT-core) (Mar 2021 ~ Mar 2022)
-- Undergraduate researcher at [Kyungpook National University Image Processing and Analysis Lab](https://sites.google.com/view/ipalab) (Apr 2022 ~ Aug 2022)
-- Member of [Google Developer Student Clubs at Kyungpook National University](https://github.com/GDSC-KNU) (Sep 2022 ~ Jul 2023)
+## Hi there! Im Dongjae. 👋
 
 <h2 align="center">🛠️ Tech Stacks</h2>
 <p align="center">
-  <b>Main Tech (Backend & Infra)</b><br>
+  <b>Main Tech</b><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <br><br>
-  <b>Sub Tech (Frontend)</b><br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <b>Sub Tech</b><br>
+  <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </p>
 
 <h2 align="center">🏆 Awards & Certifications</h2>
