@@ -42,7 +42,7 @@
 | :--------: | :-------------------------------- | :-----------------: | :-----------------: |
 | **2025.07**| **진행중**| **["자바 웹 프로그래밍 Next Step" 스터디](https://github.com/dlehdwo/jwp-basic)** | [**노션**](https://changeable-tank-0f9.notion.site/22990ffd0305801ba1f1eb6f5293acb7?pvs=74) |
 | **2025.03**| **2025.07**| **[종합설계프로젝트2 with 엔코아](https://github.com/2025-ITEC0402)** |  |
-| **2024.09**| **2025.07**| **[GDGoC KNU 4기 백엔드 멤버](https://github.com/GDG-on-Campus-KNU)** |  |
+| **2024.09**| **2025.07**| **[GDGoC KNU 4기 백엔드 멤버](https://github.com/GDG-on-Campus-KNU)** | [**Walnet Backend 레포**](https://github.com/GDG-on-Campus-KNU/4th-1st-Project-walnet-BE)  |
 | **2024.09**| **2024.01**| **[종합설계프로젝트1 with Google](https://github.com/2024-ITEC0401)** | |
 | **2024.07**| **2024.08**| **[엔가든 개발 인턴](https://github.com/EngardenIntern)** |  |
 | **2024.4**| **2024.7**| **Codyssey X Daegu 2기** | [**수료증**]() |
