@@ -33,7 +33,7 @@
 | **2016.9**| **제7회 창의문제해결능력경진대회** | [**대상, 장관상**](https://github.com/user-attachments/files/21524680/default.pdf) |
 | **2016.7**| **제33회 한국정보올림피아드 경시부문** | [**은상**](https://github.com/user-attachments/files/21524680/default.pdf) |
 
-<p><strong>GPA(Grade Point Average): 3.80/4.3 </strong></p>
+<p><strong>GPA(Grade Point Average): 4.08/4.5 </strong></p>
 </div>
 
 <h2 align="center">🔥 Activity</h2>
