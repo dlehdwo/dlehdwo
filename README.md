@@ -53,8 +53,9 @@
 
 </div>
 
-<h2 align="center"> 📋 GitHub Stats </h2>
+<h2 align="center"> 📋 Languages </h2>
 <div align="center">
-    <a href="https://github.com/dlehdwo"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dlehdwo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,838BB2,CACFE3,C7D6DB&title_color=fff&text_color=fff" alt="Kiyeong's github stats" /></a>
-    <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlehdwo&layout=compact&count_private=true)
+    
 </div>
