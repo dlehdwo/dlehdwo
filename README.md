@@ -51,11 +51,3 @@
 | **2020.09**| **2021.02**| **컴퓨터학부 홍보단 제3기** | |
 | **2020.03**| **2022.08**|**경북대학교 컴퓨터학부 1,2,3 학년 과대** | |
 
-</div>
-
-<h2 align="center"> 📋 Languages </h2>
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlehdwo&layout=compact&count_private=true)
-    
-</div>
