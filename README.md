@@ -31,7 +31,7 @@
 | **2024.12**| **[산학협력프로젝트 경진대회 "Look4Me"](https://github.com/2024-ITEC0401)** | [**우수상**](https://github.com/user-attachments/assets/68a716c5-9291-4cd6-9fd5-8b09be08053b) |
 | **2024.11**| **[GDG on Campus KNU 비전 챌린지톤 "물멍"](https://github.com/team-GDGline)** | [**최우수상**](https://github.com/user-attachments/files/21088650/default.pdf) |
 | **2021.12**| **정보처리기능사** | [**자격증취득**](https://github.com/user-attachments/files/21565816/default.pdf) |
-| **2016.9**| **제7회 창의문제해결능력경진대회** | [**대상, 장관상**](https://github.com/user-attachments/files/21524680/default.pdf) |
+| **2016.9**| **제7회 창의문제해결능력경진대회** | [**대상, 장관상**](https://github.com/user-attachments/files/21614575/7.pdf) |
 | **2016.7**| **제33회 한국정보올림피아드 경시부문** | [**은상**](https://github.com/user-attachments/files/21524680/default.pdf) |
 
 <p><strong>GPA(Grade Point Average): 4.08/4.5 </strong></p>
