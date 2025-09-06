@@ -24,6 +24,8 @@
 
 | 취득일      | 내용                               | 결과/자격           |
 | :--------: | :-------------------------------- | :-----------------: |
+| **2025.07**| **ADsP** | [**자격증 취득**](https://github.com/user-attachments/files/22187041/adsp.pdf) |
+| **2025.08**| **제 4회 SW테스트 경진대회** | [**장려상**] |
 | **2025.07**| **[한국디지털콘텐츠학회 하계종합학술대회 "EMA"](https://github.com/2025-ITEC0402)** | [**금상**](https://github.com/user-attachments/assets/344f73cb-c4de-4f18-9e40-1a9e1495878a) |
 | **2025.06**| **정보처리기사** | [**자격증 취득**](https://github.com/user-attachments/files/21524737/default.pdf) |
 | **2025.05**| **PCCP lv.5** | [**자격증 취득**](https://github.com/user-attachments/files/21524727/pccp.lv5.pdf) |
@@ -42,7 +44,8 @@
 
 | 시작일      | 종료일      | 내용                               | 비고           |
 | :--------: | :-------------------------------- | :-----------------: | :-----------------: |
-| **2025.07**| **진행중**| **["자바 웹 프로그래밍 Next Step" 스터디](https://github.com/dlehdwo/jwp-basic)** | [**노션**](https://changeable-tank-0f9.notion.site/22990ffd0305801ba1f1eb6f5293acb7?pvs=74) |
+| **2025.08**| **2025.08**| **삼성 금융 아카데미 수료** | [**수료증**](https://github.com/user-attachments/files/22187029/default.pdf)|
+| **2025.07**| **진행중**| **["자바연구소" 스터디](https://github.com/dlehdwo/jwp-basic)** | [**노션**](https://changeable-tank-0f9.notion.site/22990ffd0305801ba1f1eb6f5293acb7?pvs=74) |
 | **2025.03**| **2025.07**| **[종합설계프로젝트2 with 엔코아](https://github.com/2025-ITEC0402)** |  |
 | **2024.09**| **2025.07**| **[GDGoC KNU 4기 백엔드 멤버](https://github.com/GDG-on-Campus-KNU)** | [**1차프로젝트**](https://github.com/GDG-on-Campus-KNU/4th-1st-Project-walnet-BE)  |
 | **2024.09**| **2024.01**| **[종합설계프로젝트1 with Google](https://github.com/2024-ITEC0401)** | |
