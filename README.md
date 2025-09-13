@@ -24,8 +24,8 @@
 
 | 취득일      | 내용                               | 결과/자격           |
 | :--------: | :-------------------------------- | :-----------------: |
+| **2025.08**| **제 4회 SW테스트 경진대회** | [**장려상**](https://github.com/user-attachments/files/22311467/SW.pdf) |
 | **2025.07**| **ADsP** | [**자격증 취득**](https://github.com/user-attachments/files/22187041/adsp.pdf) |
-| **2025.08**| **제 4회 SW테스트 경진대회** | [**장려상**] |
 | **2025.07**| **[한국디지털콘텐츠학회 하계종합학술대회 "EMA"](https://github.com/2025-ITEC0402)** | [**금상**](https://github.com/user-attachments/assets/344f73cb-c4de-4f18-9e40-1a9e1495878a) |
 | **2025.06**| **정보처리기사** | [**자격증 취득**](https://github.com/user-attachments/files/21524737/default.pdf) |
 | **2025.05**| **PCCP lv.5** | [**자격증 취득**](https://github.com/user-attachments/files/21524727/pccp.lv5.pdf) |
@@ -50,7 +50,7 @@
 | **2024.09**| **2025.07**| **[GDGoC KNU 4기 백엔드 멤버](https://github.com/GDG-on-Campus-KNU)** | [**1차프로젝트**](https://github.com/GDG-on-Campus-KNU/4th-1st-Project-walnet-BE)  |
 | **2024.09**| **2024.01**| **[종합설계프로젝트1 with Google](https://github.com/2024-ITEC0401)** | |
 | **2024.07**| **2024.08**| **[엔가든 개발 인턴](https://github.com/EngardenIntern)** |  |
-| **2024.4**| **2024.7**| **Codyssey X Daegu 2기** | [**수료증**]() |
+| **2024.4**| **2024.7**| **Codyssey X Daegu 2기** | [**수료증**](https://github.com/user-attachments/files/22311483/Codyssey.X.Daegu.pdf) |
 | **2022.1**| **2022.3**| **ICT COG Academy 블록체인** | [**수료증**](https://github.com/user-attachments/files/21558754/default.pdf) |
 | **2021.3**| **2021.9**| **대구형 전동킥보드 안전모 보관함 개발 프로젝트** | [**뉴스**](https://www.kbsm.net/news/view.php?idx=302833) |
 | **2020.09**| **2021.02**| **컴퓨터학부 홍보단 제3기** | |
